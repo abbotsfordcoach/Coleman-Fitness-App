@@ -2,7 +2,7 @@
   "name": "Fitness Quest - Journey to 165",
   "short_name": "Fitness Quest",
   "description": "Track your fitness journey with gamification, achievements, and year-over-year progress analytics",
-  "start_url": "/fitness-quest-pwa.html",
+  "start_url": "/Coleman-Fitness-App/",
   "display": "standalone",
   "background_color": "#0a0e27",
   "theme_color": "#0a0e27",
